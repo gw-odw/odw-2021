@@ -18,7 +18,7 @@ Choose an option below.
 
 5) At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-  `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
+  `#! pip install -q 'gwosc==0.5.4`  <-- Remove the `#` and run
 
   (a pop-up warning message will probably show up: `WARNING: This notebook was not authored by Google.` `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
 
@@ -66,8 +66,8 @@ You may need to restart your computer after installation.
 7) Activate the environment <br/>
 `conda activate igwn-py37`
 
-8old) Update the gwosc package at the version 0.5.3 that will be used for this workshop <br/>
-`conda install gwosc=0.5.3`
+8old) Update the gwosc package at the version 0.5.4 that will be used for this workshop <br/>
+`conda install gwosc=0.5.4`
 
 9) Build a custom jupyter kernel using the command <br/>
 `ipython kernel install --user --name=igwn-py37` <br/>

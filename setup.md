@@ -28,12 +28,13 @@ Choose an option below.
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-CLick the button below
+Just click the button below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2021/master)
 
 or visit [mybinder.org](https://mybinder.org/), paste in the "GitHub repository name or URL" cell the following address `https://github.com/gw-odw/odw-2021/`, and hit the `Launch` button. 
 
+This will build a Docker image (if not already present) with the dependency file `environment.yml`. Then a JupyterHub server will be open hosting the contents of the `gw-odw/odw-2021` repo. Check the Jupyter notebooks with the tutorials for the various days in the corresponding folders. 
 
 ## Option 3: You have a Linux or Apple/Mac computer -- Use conda
 

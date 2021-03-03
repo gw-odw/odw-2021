@@ -18,9 +18,9 @@ Choose an option below.
 
 5) At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-`#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
+  `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
 
-(you will probably see the warning: `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
+  (a pop-up warning message will probably show up: `WARNING: This notebook was not authored by Google.` `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
 
 6) Click `run all` from the `runtime` menu at the top
 
@@ -28,8 +28,13 @@ Choose an option below.
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
+Just click the button below
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2021/master)
 
+or visit [mybinder.org](https://mybinder.org/), paste in the "GitHub repository name or URL" cell the following address `https://github.com/gw-odw/odw-2021/`, and hit the `Launch` button. 
+
+This will build a Docker image (if not already present) with the dependency file `environment.yml`. Then a JupyterHub server will be open hosting the contents of the `gw-odw/odw-2021` repo. Check the Jupyter notebooks with the tutorials for the various days in the corresponding folders. 
 
 ## Option 3: You have a Linux or Apple/Mac computer -- Use conda
 
@@ -61,7 +66,7 @@ You may need to restart your computer after installation.
 7) Activate the environment <br/>
 `conda activate igwn-py37`
 
-8) Update the gwosc package at the version 0.5.3 that will be used for this workshop <br/>
+8old) Update the gwosc package at the version 0.5.3 that will be used for this workshop <br/>
 `conda install gwosc=0.5.3`
 
 9) Build a custom jupyter kernel using the command <br/>

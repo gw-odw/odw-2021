@@ -45,7 +45,9 @@ Note: this workshop will use Python version 3.7
 1. Install miniconda: https://conda.io/en/latest/miniconda.html <br/>
 
     Choose the version for Python 3.7. 
+    
     See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
+    
     You may need to restart your computer after installation.
 
 2. Download the IGWN YML file for the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)

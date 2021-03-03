@@ -2,7 +2,7 @@
 
 README for materials for ODW#4 - 2021
 
-[GW Open Data Workshop #3](https://www.gw-openscience.org/static/workshop4/),
+[GW Open Data Workshop #4](https://www.gw-openscience.org/static/workshop4/),
 May 10-14, 2021
 
 ## Software setup

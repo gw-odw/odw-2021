@@ -18,9 +18,9 @@ Choose an option below.
 
 5. At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-  `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
+    `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
 
-  (a pop-up warning message will probably show up: `WARNING: This notebook was not authored by Google.` `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
+    (a pop-up warning message will probably show up: `WARNING: This notebook was not authored by Google.` `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
 
 6. Click `run all` from the `runtime` menu at the top
 
@@ -44,25 +44,25 @@ Note: this workshop will use Python version 3.7
 
 1. Install miniconda: https://conda.io/en/latest/miniconda.html <br/>
 
-  Choose the version for Python 3.7. 
-  See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
-  You may need to restart your computer after installation.
+    Choose the version for Python 3.7. 
+    See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
+    You may need to restart your computer after installation.
 
 2. Download the IGWN YML file for the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
    * [YML file for linux](./environment.yml)
    * [YML file for osx  ](./igwn-py37-osx.yaml)
 
 3. Add the conda-forge channel <br/>
-  `conda config --add channels conda-forge`
+    `conda config --add channels conda-forge`
 
 4. Create the environment <br/>
-  `conda env create --file igwn-py37.yaml`
+    `conda env create --file igwn-py37.yaml`
 
 5. Clone the workshop git repo <br/>
-  `git clone https://github.com/gw-odw/odw-2020.git`
+    `git clone https://github.com/gw-odw/odw-2020.git`
 
 6. Move into the directory with the workshop git repo <br/>
-  `cd odw-2021`
+    `cd odw-2021`
 
 7. Activate the environment <br/>
   `conda activate igwn-py37`

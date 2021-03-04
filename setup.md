@@ -18,8 +18,13 @@ Choose an option below.
 
 5. At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-  `#! pip install -q 'gwosc==0.5.4`  <-- Remove the `#` and run
-    (a pop-up warning message will probably show up: `WARNING: This notebook was not authored by Google.` `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
+    `#! pip install -q 'gwosc==0.5.4`  <-- Remove the `#` and run
+
+    (a pop-up warning message will probably show up:
+    
+    `WARNING: This notebook was not authored by Google.`
+    
+    Don't worry it is an expected behaviour)
 
 6. Click `run all` from the `runtime` menu at the top
 

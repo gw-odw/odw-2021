@@ -51,12 +51,15 @@ This will build a Docker image (if not already present) with the dependency file
     - Visit the website https://conda.io/en/latest/miniconda.html
     - Choose the version for Python 3.7
     - See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
+
+        - [Linux](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+        - [macOS](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
     
    You may need to restart your computer after installation.
 
 2. Download the IGWN YML file for the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
    * [YML file for linux](./environment.yml)
-   * [YML file for osx  ](./igwn-py37-osx.yaml)
+   * [YML file for macOS](./igwn-py37-osx.yaml)
 
 3. Add the conda-forge channel <br/>
     `conda config --add channels conda-forge`
@@ -78,7 +81,7 @@ This will build a Docker image (if not already present) with the dependency file
   or equivalently <br/>
   `python -m ipykernel install --user --name=igwn-py37`
 
-9. Start the jupyter notebook server <br/>
+9. Start the Jupyter notebook server <br/>
   `jupyter notebook` and select the kernel `igwn-py37` if this is not done by default.
 
 Troubleshooting:

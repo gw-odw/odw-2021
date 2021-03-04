@@ -6,7 +6,7 @@ Choose an option below.
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[Video Guide](https://labcit.ligo.caltech.edu/~jkanner/gwosc/colab-help-2020.mov)
+[Video Guide](https://labcit.ligo.caltech.edu/~jkanner/gwosc/colab-help-2020.mov) by J. Kanner
 
 1. Visit https://colab.research.google.com
 
@@ -40,15 +40,15 @@ This will build a Docker image (if not already present) with the dependency file
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/intermediate.png' width=20 /> Intermediate (Some software installation; Will not work on Windows PC)
 
-Note: this workshop will use Python version 3.7
+**Note:** this workshop will use Python version 3.7
 
-1. Install miniconda: https://conda.io/en/latest/miniconda.html <br/>
-
-    Choose the version for Python 3.7. 
+1. Install miniconda:
+   
+    - Visit the website https://conda.io/en/latest/miniconda.html
+    - Choose the version for Python 3.7
+    - See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
     
-    See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
-    
-    You may need to restart your computer after installation.
+   You may need to restart your computer after installation.
 
 2. Download the IGWN YML file for the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
    * [YML file for linux](./environment.yml)
@@ -69,7 +69,7 @@ Note: this workshop will use Python version 3.7
 7. Activate the environment <br/>
   `conda activate igwn-py37`
 
-8. Build a custom jupyter kernel using the command <br/>
+8. Build a custom [jupyter kernel] (https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command <br/>
   `ipython kernel install --user --name=igwn-py37` <br/>
   or equivalently <br/>
   `python -m ipykernel install --user --name=igwn-py37`

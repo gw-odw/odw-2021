@@ -528,4 +528,4 @@ dependencies:
 - zope.interface=5.1.0=py38h1e0a361_0
 - zstandard=0.15.1=py38h497a2fe_0
 - zstd=1.4.8=ha95c52a_1
-name: igwn-py38
+name: igwn-py38-proposed

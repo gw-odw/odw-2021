@@ -318,7 +318,7 @@ dependencies:
 - mysql-common=8.0.23=ha770c72_1
 - mysql-libs=8.0.23=h935591d_1
 - nbconvert=5.6.1=py38h32f6830_1
-- nbformat=4.4.0=py_1
+- nbformat=5.1.2
 - ncurses=6.2=h58526e2_4
 - nds2-client=0.16.6=hd02d5f2_0
 - ndscope=0.7.9=py_1

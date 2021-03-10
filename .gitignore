@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ignore downloaded requirements.txt file(s)
+/gwpy/requirements.txt

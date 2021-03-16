@@ -2,10 +2,10 @@
 
 <div class="row">
  <div class="column">
-  <img style="width:50%; float:left" src="https://indico.in2p3.fr/event/18313/logo-786578160.png">
+  <img style="width:150pt; float:left" src="https://indico.in2p3.fr/event/18313/logo-786578160.png">
  </div>
  <div class="column">
-  <img src="share/odw-2021-td.png" alt="Chirp" style="width:50%; float:right">
+  <img src="share/odw-2021-td.png" alt="Chirp" style="width:200pt; float:right">
  </div>
 </div> 
 

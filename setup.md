@@ -1,12 +1,10 @@
-# Software Setup (Python 3.8 version)
+# Software Setup
 
-Choose an option below.
+In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below.
 
 ## Option 1: Google co-labs
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
-
-[Video Guide](https://labcit.ligo.caltech.edu/~jkanner/gwosc/colab-help-2020.mov) by J. Kanner
 
 1. Visit https://colab.research.google.com
 

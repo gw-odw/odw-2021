@@ -4,7 +4,7 @@
   <img style="height:80pt; float:left" src="https://indico.in2p3.fr/event/18313/logo-786578160.png">
  </div>
  <div class="column">
-  <img src="share/odw-2021-td.png" alt="Chirp" style="height:80pt; float:right">
+  <img src="share/odw-2021-td.png" alt="Chirp" style="float:right" height="80pt">
  </div>
 </div> 
 

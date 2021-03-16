@@ -6,7 +6,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[Video instructions](https://drive.google.com/file/d/1kRntuVqov2Uc4Zc91nPUQKESJ7iu2y17/view?usp=sharing)
+[Video instructions](https://drive.google.com/file/d/1qcGqg4lXeobJWJ09bBE6Sf61oI5qgvtG/view?usp=sharing)
 
 1. Visit https://colab.research.google.com
 
@@ -32,7 +32,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[Video instructions](https://drive.google.com/file/d/1riM5oY53S_kFfzLfp0QFrfO5niCBvF3-/view?usp=sharing)
+[Video instructions](https://drive.google.com/file/d/1G14txhokrB4mVzQmyi69BH-RM4SoEpK_/view?usp=sharing)
 
 Just click the button below
 

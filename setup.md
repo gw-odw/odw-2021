@@ -62,8 +62,9 @@ This will build a Docker image (if not already present) with the dependency file
 3. Add the conda-forge channel <br/>
     `conda config --add channels conda-forge`
 
-4. Create the environment <br/>
-    `conda env create --file igwn-py38.yaml`
+4. Create the environment: <br/>
+   * On Linux: `conda env create --file environment.yml`
+   * On macOS: `conda env create --file igwn-py38-macOS.yaml`
 
 5. Clone the workshop git repo <br/>
     `git clone https://github.com/gw-odw/odw-2021.git`

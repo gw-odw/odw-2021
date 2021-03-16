@@ -6,6 +6,8 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
+[Video instructions](https://drive.google.com/file/d/1jYE5XChnb2EvpcgBb1HvBnOS6UZW82ff/view?usp=sharing)
+
 1. Visit https://colab.research.google.com
 
 2. Click the GITHUB tab
@@ -30,6 +32,8 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
+[Video instructions](https://drive.google.com/file/d/1jYE5XChnb2EvpcgBb1HvBnOS6UZW82ff/view?usp=sharing)
+
 Just click the button below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2021/master)
@@ -41,6 +45,8 @@ This will build a Docker image (if not already present) with the dependency file
 ## Option 3: You have a Linux or Apple/Mac computer -- Use conda
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/intermediate.png' width=20 /> Intermediate (Some software installation; Will not work on Windows PC)
+
+[Video instructions](https://drive.google.com/file/d/15b79DVTiLgzM75Eh2JOE3YMADhpm2X-S/view?usp=sharing)
 
 **Note:** this workshop will use Python version 3.8
 

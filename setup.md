@@ -6,7 +6,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[Video instructions](https://drive.google.com/file/d/1qcGqg4lXeobJWJ09bBE6Sf61oI5qgvtG/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1qcGqg4lXeobJWJ09bBE6Sf61oI5qgvtG/view?usp=sharing)
 
 1. Visit https://colab.research.google.com
 
@@ -32,7 +32,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[Video instructions](https://drive.google.com/file/d/1G14txhokrB4mVzQmyi69BH-RM4SoEpK_/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1G14txhokrB4mVzQmyi69BH-RM4SoEpK_/view?usp=sharing)
 
 Just click the button below
 
@@ -46,7 +46,7 @@ This will build a Docker image (if not already present) with the dependency file
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/intermediate.png' width=20 /> Intermediate (Some software installation; Will not work on Windows PC)
 
-[Video instructions](https://drive.google.com/file/d/15b79DVTiLgzM75Eh2JOE3YMADhpm2X-S/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/15b79DVTiLgzM75Eh2JOE3YMADhpm2X-S/view?usp=sharing)
 
 **Note:** this workshop will use Python version 3.8
 

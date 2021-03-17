@@ -3,7 +3,7 @@ May 10 - 14, 2021
 <p align="middle">
   <img src="https://indico.in2p3.fr/event/18313/logo-786578160.png" width="150" />
   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="share/odw-2021-td.png" width="300" /> 
+  <img src="share/odw-2021-td.png" width="250" /> 
 </p>
 
 This repository contains the material to support [GW Open Data Workshop #4](https://www.gw-openscience.org/static/workshop4/).

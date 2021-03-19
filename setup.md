@@ -6,7 +6,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1qcGqg4lXeobJWJ09bBE6Sf61oI5qgvtG/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/17jYkGoVIavJa1B_Fbi6xK2D3jCFQT-A7/view?usp=sharing)
 
 1. Visit https://colab.research.google.com
 
@@ -34,7 +34,7 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1G14txhokrB4mVzQmyi69BH-RM4SoEpK_/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1QkjdG6IHeTWq2XtPreakLydaZMedJCrX/view?usp=sharing)
 
 Just click the button below
 
@@ -48,7 +48,7 @@ This will build a Docker image (if not already present) with the dependency file
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/intermediate.png' width=20 /> Intermediate (Some software installation; Will not work on Windows PC)
 
-<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/15b79DVTiLgzM75Eh2JOE3YMADhpm2X-S/view?usp=sharing)
+<img src='./share/video-icon.jpg' width=18 /> [Video instructions](https://drive.google.com/file/d/1YZcaY-35JiHXOH4unRe5ECSeDl8IZFZy/view?usp=sharing)
 
 **Note:** this workshop will use Python version 3.8
 
@@ -83,13 +83,15 @@ This will build a Docker image (if not already present) with the dependency file
 7. Activate the environment <br/>
   `conda activate igwn-py38`
 
-8. Build a custom [jupyter kernel] (https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command <br/>
+8. Build a custom [jupyter kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command <br/>
   `ipython kernel install --user --name=igwn-py38` <br/>
   or equivalently <br/>
   `python -m ipykernel install --user --name=igwn-py38`
 
 9. Start the Jupyter notebook server <br/>
   `jupyter notebook` and select the kernel `igwn-py38` if this is not done by default.
+
+<div class="alert alert-info">If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internat, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.</div>
 
 Troubleshooting:
 - The kernel `igwn-py38` should appear in the list returned by the command `jupyter kernelspec list` executed in a terminal

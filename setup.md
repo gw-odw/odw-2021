@@ -67,6 +67,8 @@ This will build a Docker image (if not already present) with the dependency file
    * [YML file for linux](./environment.yml)
    * [YML file for macOS](./igwn-py38-macOS.yaml)
 
+   **Note:** the `igwn-py38` dependencies files saved in this repository have been both tested working. If you prefer having the most recent release of the same environment dependencies, you can visit the [IGWN website](https://computing.docs.ligo.org/conda/) and download the one corresponding to your OS directly from there.
+
 3. Add the conda-forge channel <br/>
     `conda config --add channels conda-forge`
 

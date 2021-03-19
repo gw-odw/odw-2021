@@ -2,7 +2,7 @@
 
 In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below.
 
-## Option 1: Google co-labs
+## Option 1: Google Colab
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
@@ -93,9 +93,10 @@ This will build a Docker image (if not already present) with the dependency file
 9. Start the Jupyter notebook server <br/>
   `jupyter notebook` and select the kernel `igwn-py38` if this is not done by default.
 
-<div class="alert alert-info">If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internat, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.</div>
+**Notebooks:**
+If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internat, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.
 
-Troubleshooting:
+**Troubleshooting:**
 - The kernel `igwn-py38` should appear in the list returned by the command `jupyter kernelspec list` executed in a terminal
 - If, when you run jupyter, you get the message: `Could not find kernel matching igwn-py38. Please select a kernel: Python 3`
 this indicates the `igwn-py38` kernel is not installed properly. Make sure you executed step 9)

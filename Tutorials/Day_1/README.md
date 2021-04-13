@@ -11,7 +11,6 @@ Click links below to open tutorials in Google Colab
 
 ### Quiz Questions
 
-**This link should be updated**
 * [Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
 
 

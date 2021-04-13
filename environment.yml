@@ -15,5 +15,6 @@ dependencies:
 - pip=20.0.2=py_2
 - pycbc=1.18.0=py38h4c3c19e_0
 - pygcn=1.0.2=py_0
+- python=3.8.6=hffdb5ce_5_cpython
 - scipy=1.5.3=py38hb2138dd_0
 name: igwn-py38

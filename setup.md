@@ -22,11 +22,15 @@ They are listed in order of difficulty. However, we encourage the participants w
 
     `#! pip install -q 'gwosc==0.5.4`  <-- Remove the `#` and run
 
-    (a pop-up warning message will probably show up:
+    **Warnings:** a couple of warning messages are likely to show up, both of them are harmless.
     
-    `WARNING: This notebook was not authored by Google.`
-    
-    Don't worry it is an expected behaviour)
+    - `Unrecognized runtime "igwn-py3#"; defaulting to "python3"`
+       
+      This pop-up simply notifies you that this notebook has been created with a Python environment different than the default one of Colab. That's not a big deal because you will install all the missing dependencies with the command above.
+      
+    - `WARNING: This notebook was not authored by Google.`
+
+      Same as before. Just close the pop-up and go ahead without worrying too much.
 
 6. Click `run all` from the `runtime` menu at the top
 

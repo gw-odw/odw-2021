@@ -62,8 +62,8 @@ This will build a Docker image (if not already present) with the dependency file
    
     - Visit the website https://conda.io/en/latest/miniconda.html
     - Choose the version for Python 3.8
-    - See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
-
+    - Follow the [installation instructions](https://conda.io/projects/conda/en/latest/user-guide/install/
+) for your operating system: 
         - [Linux](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
         - [macOS](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
     

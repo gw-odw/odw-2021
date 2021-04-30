@@ -25,4 +25,5 @@ dependencies:
 - python=3.8.6=h624753d_5_cpython
 - scipy=1.5.3=py38hb6cd474_0
 - six=1.14.0=py_1
+- wget=1.20.1=h33e2efd_0
 name: igwn-py38-lw

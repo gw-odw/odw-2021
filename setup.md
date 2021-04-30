@@ -2,6 +2,8 @@
 
 In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below.
 
+They are listed in order of difficulty. However, we encourage the participants with some experience with Python environments to follow **Option3**, installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
+
 ## Option 1: Google Colab
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
@@ -20,11 +22,15 @@ In order to be able to execute the notebooks with the tutorials, you should conf
 
     `#! pip install -q 'gwosc==0.5.4`  <-- Remove the `#` and run
 
-    (a pop-up warning message will probably show up:
+    **Warnings:** a couple of warning messages are likely to show up, both of them are harmless.
     
-    `WARNING: This notebook was not authored by Google.`
-    
-    Don't worry it is an expected behaviour)
+    - `Unrecognized runtime "igwn-py3#"; defaulting to "python3"`
+       
+      This pop-up simply notifies you that this notebook has been created with a Python environment different than the default one of Colab. That's not a big deal because you will install all the missing dependencies with the command above.
+      
+    - `WARNING: This notebook was not authored by Google.`
+
+      Same as before. Just close the pop-up and go ahead without worrying too much.
 
 6. Click `run all` from the `runtime` menu at the top
 
@@ -56,8 +62,8 @@ This will build a Docker image (if not already present) with the dependency file
    
     - Visit the website https://conda.io/en/latest/miniconda.html
     - Choose the version for Python 3.8
-    - See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
-
+    - Follow the [installation instructions](https://conda.io/projects/conda/en/latest/user-guide/install/
+) for your operating system: 
         - [Linux](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
         - [macOS](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
     

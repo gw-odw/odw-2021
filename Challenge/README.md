@@ -11,7 +11,7 @@ Data files may be downloaded using these links:
 * [challenge3.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf)
 
 Workshop participants may
-[submit solutions](https://docs.google.com/forms/d/e/1FAIpQLScPEI21PtEpthhKMznd8W1jvBBhA6QcmX2LhW53ObXow85i0w/viewform)
+[submit solutions](https://docs.google.com/forms/d/1M4L_v6ZdyHv60nHtM_NLX15FnU6DW_pfh1gddOh9xBc/prefill)
 as individuals or in teams of up
 to 3 people.  Solutions are due at the start of the close-out session on Day 3.
 

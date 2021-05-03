@@ -2,7 +2,7 @@
 
 In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below. **We encourage the participants to test the following steps beforehand of the hands-on sessions.**
 
-The various options are listed in order of difficulty. However, whenever possible, we recommend the participants with some experience with Python environments to follow **Option3**, installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
+The various options are listed in order of difficulty. However, whenever possible, we recommend the participants with some experience with Python environments to follow [Option 3](option-3:-you-have-a-linux-or-Apple/Mac-computer----Use-conda), installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
 
 ## Option 1: Google Colab
 

@@ -1,6 +1,6 @@
-# Data Challenge (2020 version)
+# Data Challenge 
 
-### GW Open Data Workshop #3
+### GW Open Data Workshop #4
 
 Challenge activity for the Open Data Workshop 2021: https://www.gw-openscience.org/s/workshop4/
 

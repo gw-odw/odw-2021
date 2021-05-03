@@ -1,6 +1,6 @@
 # Software Setup
 
-In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below.
+In order to be able to execute the notebooks with the tutorials, you should configure your workspace following one of the options below. **We encourage the poarticipants to test the following steps beforhand the hands-on sessions.**
 
 They are listed in order of difficulty. However, we encourage the participants with some experience with Python environments to follow **Option3**, installing the requirements on their laptops and executing the tutorial notebooks from there. This has the advantage of avoiding any possible issue with online servers, including unstable internet connection or uneven memory and server availability, both on Colab and on MyBinder.
 

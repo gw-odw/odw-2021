@@ -80,12 +80,13 @@ This guide will walk you through the configuration of this environment with [Con
    * [YAML file for macOS](https://computing.docs.ligo.org/conda/environments/osx/igwn-py38.yaml)
 
    Instead, for the *light-weight* environment, download the YML file corresponding to your operating system from this repository:
-   * [YML file for linux](./environment.yml)
-   * [YML file for macOS](./igwn-py38-lw-macOS.yaml)
+   * [YAML file for linux](./environment.yml)
+   * [YAML file for macOS](./igwn-py38-lw-macOS.yaml)
 
    **Note:** the name of the *light-weight* environment is **igwn-py38-lw** to distinguish it from the official one, `igwn-py38`. In the following steps, remember to add the "`-lw`" subfix to the name.
 
-3. Add the conda-forge channel <br/>
+3. Add the conda-forge channel
+
     `conda config --add channels conda-forge`
 
 4. Create the environment. <br/>
@@ -97,18 +98,27 @@ This guide will walk you through the configuration of this environment with [Con
    * On Linux: `conda env create --file environment.yml`
    * On macOS: `conda env create --file igwn-py38-lw-macOS.yaml`
 
-5. Clone the workshop git repo <br/>
+5. Clone the workshop git repo 
+
     `git clone https://github.com/gw-odw/odw-2021.git`
 
-6. Move into the directory with the workshop git repo <br/>
+6. Move into the directory with the workshop git repo 
+
     `cd odw-2021`
     
-7. Activate the environment <br/>
-  `conda activate igwn-py38`
+7. Activate the environment. <br/>
+   **Note:** remember to add "`-lw`" to the name of the environment if you have installed the light-weight one.
 
-8. Build a custom [jupyter kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command <br/>
-  `ipython kernel install --user --name=igwn-py38` <br/>
-  or equivalently <br/>
+   `conda activate igwn-py38`
+   
+   (Light-weight: `conda activate igwn-py38-lw`)
+
+8. Build a custom [jupyter kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command 
+
+  `ipython kernel install --user --name=igwn-py38` 
+  
+  or equivalently 
+  
   `python -m ipykernel install --user --name=igwn-py38`
 
 9. Start the Jupyter notebook server <br/>

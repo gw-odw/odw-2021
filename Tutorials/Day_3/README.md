@@ -9,7 +9,9 @@ Click links below to open tutorials in Google Colab
 
 ### Quiz questions
 
-* [Quiz](https://drive.google.com/drive/folders/1dh33gF5Babbf0Bm1eXUttutb_u2i7Y_p)
+* [Quiz 3.1](https://docs.google.com/forms/d/e/1FAIpQLSed422j8DH9quapEklzOSMLnfa1-lbTkju996HeQyoyB2rFLg/viewform?usp=sf_link)
+* [Quiz 3.2](https://docs.google.com/forms/d/e/1FAIpQLScuWrL-qHlbI3IIMVEkBgM2bQidC9m3rZhRUkkbLbuw9Vzeqw/viewform?usp=sf_link)
+* [Quiz 3.3](https://docs.google.com/forms/d/e/1FAIpQLSdfE8bhV6xhYa8jPZxXulSjAgCcTzmnbhTvgSI7OjPf93unrw/viewform?usp=sf_link)
 
 ### More documentation
 

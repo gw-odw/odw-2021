@@ -111,7 +111,7 @@ This guide will walk you through the configuration of this environment with [Con
 
    `conda activate igwn-py38`
    
-   (Light-weight: `conda activate igwn-py38-lw`)
+   (Light-weight environment: `conda activate igwn-py38-lw`)
 
 8. Build a custom [jupyter kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) using the command 
 
@@ -120,9 +120,11 @@ This guide will walk you through the configuration of this environment with [Con
   or equivalently 
   
   `python -m ipykernel install --user --name=igwn-py38`
+  
+  (Light-weight environment: `--name=igwn-py38-lw`)
 
 9. Start the Jupyter notebook server <br/>
-  `jupyter notebook` and select the kernel `igwn-py38` if this is not done by default.
+  `jupyter notebook` and select the kernel `igwn-py38` (`igwn-py38-lw`) if this is not done by default.
 
 **Notebooks:**
 If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internat, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.
@@ -131,6 +133,7 @@ If you are not familiar with Jupyter notebooks, google one of the many introduct
 - The kernel `igwn-py38` should appear in the list returned by the command `jupyter kernelspec list` executed in a terminal
 - If, when you run jupyter, you get the message: `Could not find kernel matching igwn-py38. Please select a kernel: Python 3`
 this indicates the `igwn-py38` kernel is not installed properly. Make sure you executed step 9)
+- Having the full environment and the light-weight one with two different names allows them to coexist. If you want to leave the same name and overwrtite one or the other, simply add `--force` option when you create it.
 
 ## Option 4: Linux install on Windows 10 with dedicated app (Windows 10 only)
 

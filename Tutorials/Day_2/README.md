@@ -8,7 +8,10 @@ Click links below to open tutorials in Google Colab
 
 ### Quiz questions
 
-* [Quiz](https://drive.google.com/drive/folders/1pqgt1DHDjWsJpJ4pGPnaYZW7wgaXmkcx)
+* [Quiz 2.1](https://docs.google.com/forms/d/e/1FAIpQLScNLaA7NuvvB-RWrxAETr7XuFmGTo5zyovOA3En1aJzNjsFog/viewform?usp=sf_link)
+* [Quiz 2.2](https://docs.google.com/forms/d/e/1FAIpQLScp_MjtkNCf0HiP-ob9nIHcxnqQKPt-nWZjUu2PifskaHEM5w/viewform?usp=sf_link)
+* [Quiz 2.3](https://docs.google.com/forms/d/e/1FAIpQLScwxR9HtsQtH0K-KWLl3ZYbRIz3iOqlYQZDanhvIN9031ZrBw/viewform?usp=sf_link)
+
 
 ### More documentation
 

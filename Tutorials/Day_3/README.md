@@ -9,7 +9,7 @@ Click links below to open tutorials in Google Colab
 
 ### Quiz questions
 
-* [Quiz](https://drive.google.com/drive/folders/1dh33gF5Babbf0Bm1eXUttutb_u2i7Y_p?usp=sharing)
+* [Quiz](https://drive.google.com/drive/folders/1dh33gF5Babbf0Bm1eXUttutb_u2i7Y_p)
 
 ### More documentation
 

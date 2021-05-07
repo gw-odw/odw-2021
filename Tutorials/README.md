@@ -6,8 +6,6 @@
 
 [Day 1 tutorials](./Day_1)
 
-[Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
-
 #### Topics:
 
  * Discover Gravitational Wave Open Data
@@ -21,8 +19,6 @@
 ### Day 2 hands-on session
 
 [Day 2 tutorials](./Day_2)
-
-[Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
 
 #### Topics:
 

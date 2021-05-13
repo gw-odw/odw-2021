@@ -3,3 +3,5 @@
 
 # ignore downloaded requirements.txt file(s)
 /gwpy/requirements.txt
+
+.DS_Store

@@ -13,7 +13,7 @@ Data files may be downloaded using these links:
 Workshop participants may
 [submit solutions](https://docs.google.com/forms/d/e/1FAIpQLScEVKdHQ0BdhK-5r4zRGEL2IbgmRIFVYb8e63zR5zzKXNRNIQ/viewform?usp=sf_link)
 as individuals or in teams of up
-to 3 people.  Solutions are due at the start of the close-out session on Day 3.
+to 3 people.  Solutions are due at the start of the close-out session, that is before 7:00 UTC of Day 5, Friday 14. 
 
 Challenges are ordered by difficulty. Entries will be rewarded a number of
 points that scales with the difficulty of the challenge. 

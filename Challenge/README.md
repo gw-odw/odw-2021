@@ -9,6 +9,7 @@ Data files may be downloaded using these links:
 * [challenge1.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge1.gwf)
 * [challenge2.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge2.gwf)
 * [challenge3.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf)
+* [challenge3-2048.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge3-2048.gwf)   <-- Downsampled version of Challenge 3 file
 
 Workshop participants may
 [submit solutions](https://docs.google.com/forms/d/e/1FAIpQLScEVKdHQ0BdhK-5r4zRGEL2IbgmRIFVYb8e63zR5zzKXNRNIQ/viewform?usp=sf_link)

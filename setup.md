@@ -127,7 +127,7 @@ This guide will walk you through the configuration of this environment with [Con
   `jupyter notebook` and select the kernel `igwn-py38` (`igwn-py38-lw`) if this is not done by default.
 
 **Notebooks:**
-If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internat, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.
+If you are not familiar with Jupyter notebooks, google one of the many introductory guides available on the internet, like <a href="https://realpython.com/jupyter-notebook-introduction/">this one</a>. Also, taking a look at the <a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Examples</a> offered by Google Colab can be helpful.
 
 **Troubleshooting:**
 - The kernel `igwn-py38` should appear in the list returned by the command `jupyter kernelspec list` executed in a terminal
